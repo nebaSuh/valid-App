@@ -1,16 +1,21 @@
-# valid
+# Valid App
 
-A new Flutter project.
+Valid App is a document verification and management system designed for schools and businesses.  
+It starts with digital receipts (QR + PDF) and expands to certificates, student records, and more.
 
-## Getting Started
+## Features
+- 🔐 Secure login
+- 📄 Receipt generation with QR codes
+- 🎤 Voice-to-receipt (AI-powered)
+- 🌍 Multi-language support (English/French)
+- 📊 Fraud detection and analytics (future work)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter (UI)
+- Firebase (authentication & storage)
+- GitHub (version control)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Roadmap
+- Phase 1: Receipts demo
+- Phase 2: Certificates & student records
+- Phase 3: Full school-wide rollout
